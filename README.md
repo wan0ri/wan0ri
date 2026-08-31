@@ -2,7 +2,7 @@
 
 ## 🔥 Skills
 
-![SkillSets](https://skillicons.dev/icons?i=aws,gcp,docker,terraform,github,githubactions,jenkins,linux,windows,apple,vscode,eclipse,notion,md)
+![SkillSets](https://skillicons.dev/icons?i=aws,docker,terraform,github,githubactions,jenkins,linux)
 
 ## 💻️ etc
 
